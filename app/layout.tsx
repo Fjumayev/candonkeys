@@ -1,17 +1,34 @@
-export const metadata = {
-  title: "CanDonkeys | Bucks County Trash Can Curb Service",
-  description:
-    "Trash can curb service in Bucks County. We roll your cans out before pickup and return them after collection.",
-};
+import type { Metadata } from 'next'
+import { Lato } from 'next/font/google'
+import './globals.css'
+
+const lato = Lato({
+  subsets: ['latin'],
+  weight: ['400', '700', '900'],
+})
+
+export const metadata: Metadata = {
+  title: 'CanDonkeys - Never Worry About Trash Day Again',
+  description: 'Weekly trash and recycling can service for Bucks County homeowners, seniors, and busy families. Only $10 per week.',
+}
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode;
+  children: React.ReactNode
 }) {
   return (
-    <html lang="en">
-      <body style={{ margin: 0, fontFamily: "Arial, sans-serif" }}>{children}</body>
+    <html lang="en" className="scroll-smooth">
+      <head>
+        {/* Preload LCP hero image so browser discovers it immediately */}
+        <link
+          rel="preload"
+          href="/background/hero-bg-3.webp"
+          as="image"
+          fetchPriority="high"
+        />
+      </head>
+      <body className={lato.className}>{children}</body>
     </html>
-  );
+  )
 }
