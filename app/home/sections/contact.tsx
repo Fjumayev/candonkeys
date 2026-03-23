@@ -71,8 +71,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-xs font-bold text-[#0f2d4a] uppercase tracking-wide mb-0.5">Phone</p>
-                  <a href="tel:+12155550000" className="text-sm text-gray-500 hover:text-[#6ab04c] transition-colors">
-                    (215) 555-0000
+                  <a href="tel:+12672813939" className="text-sm text-gray-500 hover:text-[#6ab04c] transition-colors">
+                    (267) 281-3939
                   </a>
                 </div>
               </li>
@@ -82,8 +82,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-xs font-bold text-[#0f2d4a] uppercase tracking-wide mb-0.5">Email</p>
-                  <a href="mailto:hello@candonkeys.com" className="text-sm text-gray-500 hover:text-[#6ab04c] transition-colors">
-                    hello@candonkeys.com
+                  <a href="mailto:support@candonkeys.com" className="text-sm text-gray-500 hover:text-[#6ab04c] transition-colors">
+                    support@candonkeys.com
                   </a>
                 </div>
               </li>
@@ -145,7 +145,7 @@ export default function Contact() {
                       <input
                         type="tel"
                         name="phone"
-                        placeholder="(215) 555-0000"
+                        placeholder="(267) 281-3939"
                         className="w-full px-4 py-2.5 rounded-lg border border-gray-200 text-sm text-gray-700 placeholder-gray-300 focus:outline-none focus:border-[#1a4f80] focus:ring-2 focus:ring-[#1a4f80]/10 transition-all"
                       />
                     </div>
