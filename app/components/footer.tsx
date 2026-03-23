@@ -116,7 +116,7 @@ export default function Footer() {
                 <li className="flex items-center gap-2.5">
                   <Mail className="w-4 h-4 text-[#6ab04c] shrink-0" strokeWidth={2} />
                   <a href="mailto:hello@candonkeys.com" className="hover:text-[#a8d45e] text-sm font-normal transition-colors">
-                    hello@candonkeys.com
+                    support@candonkeys.com
                   </a>
                 </li>
               </ul>
