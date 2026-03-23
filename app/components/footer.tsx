@@ -109,13 +109,13 @@ export default function Footer() {
                 </li>
                 <li className="flex items-center gap-2.5">
                   <Phone className="w-4 h-4 text-[#6ab04c] shrink-0" strokeWidth={2} />
-                  <a href="tel:+12155550000" className="hover:text-[#a8d45e] text-sm font-normal transition-colors">
+                  <a href="tel:+12672813939" className="hover:text-[#a8d45e] text-sm font-normal transition-colors">
                     (267) 281-3939
                   </a>
                 </li>
                 <li className="flex items-center gap-2.5">
                   <Mail className="w-4 h-4 text-[#6ab04c] shrink-0" strokeWidth={2} />
-                  <a href="mailto:hello@candonkeys.com" className="hover:text-[#a8d45e] text-sm font-normal transition-colors">
+                  <a href="mailto:support@candonkeys.com" className="hover:text-[#a8d45e] text-sm font-normal transition-colors">
                     support@candonkeys.com
                   </a>
                 </li>
