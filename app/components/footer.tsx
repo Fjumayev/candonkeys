@@ -15,7 +15,7 @@ export default function Footer() {
             Join homeowners across Bucks County who never worry about trash day again.
           </p>
           <Link
-            href="#pricing"
+            href="/#contact"
             className="inline-block bg-[#6ab04c] hover:bg-[#5a9a3c] text-white font-black px-8 py-3.5 rounded-md transition-all hover:scale-105 shadow-md text-sm tracking-tight"
           >
             Get Started — Free 3-Week Trial!
