@@ -2,8 +2,9 @@ import Link from 'next/link'
 
 export default function Pricing() {
   const features = [
-    'Weekly trash & recycling service',
-    'Cans rolled to curb & returned',
+    'Service for up to 2 Cans',
+    'Cans rolled to curb & back',
+    'One collection day per week',
     'Reliable local service',
     'No long-term contracts',
   ]
@@ -65,7 +66,7 @@ export default function Pricing() {
             href="#contact"
             className="block w-full bg-[#6ab04c] hover:bg-[#5a9a3c] text-white font-black py-3.5 rounded-lg text-center transition-all hover:scale-105 text-sm tracking-tight shadow-sm"
           >
-            Start Service
+            Start 3-week free Trial
           </Link>
 
           <p className="text-center text-xs text-gray-400 mt-3 font-normal">
