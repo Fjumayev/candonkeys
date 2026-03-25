@@ -66,7 +66,7 @@ export default function Pricing() {
             href="#contact"
             className="block w-full bg-[#6ab04c] hover:bg-[#5a9a3c] text-white font-black py-3.5 rounded-lg text-center transition-all hover:scale-105 text-sm tracking-tight shadow-sm"
           >
-            Start 3-week free Trial
+            Start 3-Week Free Trial
           </Link>
 
           <p className="text-center text-xs text-gray-400 mt-3 font-normal">

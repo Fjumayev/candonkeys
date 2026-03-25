@@ -47,10 +47,10 @@ export default function Hero() {
               href="#pricing"
               className="bg-[#6ab04c] hover:bg-[#5a9a3c] text-white font-bold px-6 py-3 rounded-md transition-all hover:scale-105 text-sm shadow"
             >
-              Start Weekly Service
+              Start 3-Week Free Trial
             </Link>
             <Link
-              href="#service-areas"
+              href="#contact"
               className="bg-transparent hover:bg-white/10 text-white font-bold px-6 py-3 rounded-md border-2 border-white transition-all hover:scale-105 text-sm"
             >
               Check Service Area
