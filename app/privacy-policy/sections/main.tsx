@@ -81,7 +81,7 @@ export default function PrivacyPolicyPage() {
               <li>Request that we delete your data, subject to any legal obligations</li>
               <li>Opt out of any non-essential communications at any time</li>
             </ul>
-            <p>To exercise any of these rights, contact us at <a href="mailto:hello@candonkeys.com" className="text-[#1a4f80] font-bold hover:text-[#6ab04c] transition-colors">hello@candonkeys.com</a>.</p>
+            <p>To exercise any of these rights, contact us at <a href="mailto:support@candonkeys.com" className="text-[#1a4f80] font-bold hover:text-[#6ab04c] transition-colors">hello@candonkeys.com</a>.</p>
           </Section>
 
           <Section title="7. Children's Privacy">
