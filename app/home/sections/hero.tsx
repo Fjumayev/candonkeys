@@ -44,13 +44,13 @@ export default function Hero() {
 
           <div className="flex flex-wrap gap-3">
             <Link
-              href="#pricing"
+              href="#contact"
               className="bg-[#6ab04c] hover:bg-[#5a9a3c] text-white font-bold px-6 py-3 rounded-md transition-all hover:scale-105 text-sm shadow"
             >
               Start 3-Week Free Trial
             </Link>
             <Link
-              href="#contact"
+              href="#service-areas"
               className="bg-transparent hover:bg-white/10 text-white font-bold px-6 py-3 rounded-md border-2 border-white transition-all hover:scale-105 text-sm"
             >
               Check Service Area
