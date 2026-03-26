@@ -93,7 +93,7 @@ export default function Footer() {
             <div>
               <h4 className="text-xs font-black tracking-widest uppercase mb-4">Service Areas</h4>
               <ul className="space-y-2.5">
-                {['Bensalem', 'Langhorne', 'Festerville', 'Trevose', 'Feasterville', 'Penndel'].map((area) => (
+                {['Bensalem', 'Langhorne', 'Trevose', 'Feasterville', 'Penndel'].map((area) => (
                   <li key={area} className="text-sm font-normal">{area}</li>
                 ))}
               </ul>
