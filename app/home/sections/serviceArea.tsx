@@ -3,7 +3,7 @@ import { MapPin } from 'lucide-react'
 const areas = [
   { name: 'Bensalem', zip: '19020' },
   { name: 'Langhorne', zip: '19047' },
-  { name: 'Festerville', zip: '19053' },
+
   { name: 'Trevose', zip: '19053' },
   { name: 'Feasterville', zip: '19053' },
   { name: 'Penndel', zip: '19047' },
