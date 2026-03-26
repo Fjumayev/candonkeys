@@ -2,7 +2,7 @@ const testimonials = [
   {
     quote: 'I travel often for work and used to stress about trash day constantly. CanDonkeys completely solved that problem.',
     author: 'Sarah L.',
-    location: 'Festerville',
+    location: 'Feasterville',
     initials: 'SL',
   },
   {
